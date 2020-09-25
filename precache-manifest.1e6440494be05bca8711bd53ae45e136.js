@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b70156a86346786122b0f982d0aa8f0c",
+    "revision": "fd39199c60a03ba7df3d6c11b00c9e8b",
     "url": "/SEMIC-solid-demo/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SEMIC-solid-demo/static/css/2.d9ad5f5c.chunk.css"
   },
   {
-    "revision": "084b38587d65060b64ee",
+    "revision": "8bca10fe4a4fcd78232d",
     "url": "/SEMIC-solid-demo/static/css/main.234796bf.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SEMIC-solid-demo/static/js/2.e9bccfe2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "084b38587d65060b64ee",
-    "url": "/SEMIC-solid-demo/static/js/main.26d6c3bd.chunk.js"
+    "revision": "8bca10fe4a4fcd78232d",
+    "url": "/SEMIC-solid-demo/static/js/main.8b14f017.chunk.js"
   },
   {
     "revision": "c31dafc3207fc0fe0fde",

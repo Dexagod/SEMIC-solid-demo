@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/SEMIC-solid-demo/static/css/main.234796bf.chunk.css",
-    "main.js": "/SEMIC-solid-demo/static/js/main.26d6c3bd.chunk.js",
-    "main.js.map": "/SEMIC-solid-demo/static/js/main.26d6c3bd.chunk.js.map",
+    "main.js": "/SEMIC-solid-demo/static/js/main.8b14f017.chunk.js",
+    "main.js.map": "/SEMIC-solid-demo/static/js/main.8b14f017.chunk.js.map",
     "runtime-main.js": "/SEMIC-solid-demo/static/js/runtime-main.6bc646be.js",
     "runtime-main.js.map": "/SEMIC-solid-demo/static/js/runtime-main.6bc646be.js.map",
     "static/css/2.d9ad5f5c.chunk.css": "/SEMIC-solid-demo/static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.e9bccfe2.chunk.js": "/SEMIC-solid-demo/static/js/2.e9bccfe2.chunk.js",
     "static/js/2.e9bccfe2.chunk.js.map": "/SEMIC-solid-demo/static/js/2.e9bccfe2.chunk.js.map",
     "index.html": "/SEMIC-solid-demo/index.html",
-    "precache-manifest.a0a0a90bc16f170747b96f4e56284915.js": "/SEMIC-solid-demo/precache-manifest.a0a0a90bc16f170747b96f4e56284915.js",
+    "precache-manifest.1e6440494be05bca8711bd53ae45e136.js": "/SEMIC-solid-demo/precache-manifest.1e6440494be05bca8711bd53ae45e136.js",
     "service-worker.js": "/SEMIC-solid-demo/service-worker.js",
     "static/css/2.d9ad5f5c.chunk.css.map": "/SEMIC-solid-demo/static/css/2.d9ad5f5c.chunk.css.map",
     "static/css/main.234796bf.chunk.css.map": "/SEMIC-solid-demo/static/css/main.234796bf.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.e9bccfe2.chunk.js",
     "static/css/main.234796bf.chunk.css",
-    "static/js/main.26d6c3bd.chunk.js"
+    "static/js/main.8b14f017.chunk.js"
   ]
 }

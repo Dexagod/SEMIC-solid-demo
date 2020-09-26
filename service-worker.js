@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/SEMIC-solid-demo/precache-manifest.415278fa16b4554485c83c4b8b3d95aa.js"
+  "/SEMIC-solid-demo/precache-manifest.df126774bb719fe15bbf5bc20fd2eb2e.js"
 );
 
 self.addEventListener('message', (event) => {

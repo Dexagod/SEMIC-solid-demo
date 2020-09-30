@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/SEMIC-solid-demo/static/css/main.a0b46727.chunk.css",
-    "main.js": "/SEMIC-solid-demo/static/js/main.8f3623f8.chunk.js",
-    "main.js.map": "/SEMIC-solid-demo/static/js/main.8f3623f8.chunk.js.map",
+    "main.css": "/SEMIC-solid-demo/static/css/main.5715bfcf.chunk.css",
+    "main.js": "/SEMIC-solid-demo/static/js/main.c0215737.chunk.js",
+    "main.js.map": "/SEMIC-solid-demo/static/js/main.c0215737.chunk.js.map",
     "runtime-main.js": "/SEMIC-solid-demo/static/js/runtime-main.6bc646be.js",
     "runtime-main.js.map": "/SEMIC-solid-demo/static/js/runtime-main.6bc646be.js.map",
     "static/css/2.d9ad5f5c.chunk.css": "/SEMIC-solid-demo/static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.4bf03dc0.chunk.js": "/SEMIC-solid-demo/static/js/2.4bf03dc0.chunk.js",
-    "static/js/2.4bf03dc0.chunk.js.map": "/SEMIC-solid-demo/static/js/2.4bf03dc0.chunk.js.map",
+    "static/js/2.1375ec01.chunk.js": "/SEMIC-solid-demo/static/js/2.1375ec01.chunk.js",
+    "static/js/2.1375ec01.chunk.js.map": "/SEMIC-solid-demo/static/js/2.1375ec01.chunk.js.map",
     "index.html": "/SEMIC-solid-demo/index.html",
-    "precache-manifest.d29bd14e3bbe1e68b58f75b18b81eb40.js": "/SEMIC-solid-demo/precache-manifest.d29bd14e3bbe1e68b58f75b18b81eb40.js",
+    "precache-manifest.ef7cb539908148a3cfe1236d19435fd3.js": "/SEMIC-solid-demo/precache-manifest.ef7cb539908148a3cfe1236d19435fd3.js",
     "service-worker.js": "/SEMIC-solid-demo/service-worker.js",
     "static/css/2.d9ad5f5c.chunk.css.map": "/SEMIC-solid-demo/static/css/2.d9ad5f5c.chunk.css.map",
-    "static/css/main.a0b46727.chunk.css.map": "/SEMIC-solid-demo/static/css/main.a0b46727.chunk.css.map",
-    "static/js/2.4bf03dc0.chunk.js.LICENSE.txt": "/SEMIC-solid-demo/static/js/2.4bf03dc0.chunk.js.LICENSE.txt",
+    "static/css/main.5715bfcf.chunk.css.map": "/SEMIC-solid-demo/static/css/main.5715bfcf.chunk.css.map",
+    "static/js/2.1375ec01.chunk.js.LICENSE.txt": "/SEMIC-solid-demo/static/js/2.1375ec01.chunk.js.LICENSE.txt",
     "static/media/solid-emblem.svg": "/SEMIC-solid-demo/static/media/solid-emblem.52659242.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.6bc646be.js",
     "static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.4bf03dc0.chunk.js",
-    "static/css/main.a0b46727.chunk.css",
-    "static/js/main.8f3623f8.chunk.js"
+    "static/js/2.1375ec01.chunk.js",
+    "static/css/main.5715bfcf.chunk.css",
+    "static/js/main.c0215737.chunk.js"
   ]
 }
